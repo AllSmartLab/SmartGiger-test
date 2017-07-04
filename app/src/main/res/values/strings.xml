@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmartGiger_Test</string>
+
+    <string name="action_calibration">자동 교정</string>
+</resources>
